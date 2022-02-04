@@ -29,3 +29,5 @@ Darren Kam
 Christopher Zhou
 
 Zach Teselko
+
+Kevin Chong
