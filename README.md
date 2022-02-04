@@ -31,3 +31,5 @@ Christopher Zhou
 Zach Teselko
 
 Kevin Chong
+
+Manuel Ardita
